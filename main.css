@@ -2,4 +2,25 @@ html {
     background-color: #afcc90;
 }
 
+h3 {
+    font-size: 30px;
+}
+
+#main-title {
+    font-size: 40px;
+}
+
+.ingredients, h3 {
+    color: purple;
+}
+.steps {
+    color: blue;
+}
+div {
+    border: 1px solid black;
+    padding: 15px;
+    padding-top: 20px;
+    margin: 20px;
+}
+
 /* Add more CSS here! */
