@@ -1,0 +1,22 @@
+{
+  "customizations": {
+    "codespaces": {
+      "openFiles": [
+        "index.html",
+        "main.css"
+      ]
+    },
+    "vscode": {
+      "extensions": [
+        "ritwickdey.LiveServer"
+      ]
+    }
+  },
+  "portsAttributes": {
+    "5500": {
+      "label": "Application",
+      "onAutoForward": "openPreview"
+    }
+  },
+  "forwardPorts": [5500]
+}
